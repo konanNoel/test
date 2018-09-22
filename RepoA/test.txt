@@ -1,1 +1,2 @@
 ligne1
+ajout de la ligne 2 dans RepoA après le clone.
