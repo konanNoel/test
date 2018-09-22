@@ -1,2 +1,3 @@
 ligne1
 ajout de la ligne 2 dans RepoA après le clone.
+ajout de ligne3 depuis le repoB
